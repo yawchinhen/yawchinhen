@@ -15,4 +15,4 @@ I am passionate about turning data into actionable insights and bridging the gap
 **Expertise Areas:**  
 - Data Analytics & Visualisation  
 - HR Analytics & Compensation and Benefits 
-- Consulting & Benchmarking Analysis   
+- Market Research & Benchmarking Analysis   
