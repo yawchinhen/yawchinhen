@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Yaw Chin Hen 👋  
 
-<!--
-**yawchinhen/yawchinhen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me  
+I am passionate about turning data into actionable insights and bridging the gap between **business strategy and analytics**. With hands-on experience across **consulting, finance, HR, and cloud solutions**, I enjoy solving complex problems through data-driven approaches.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔎 Experienced in **Tax Consulting (Deloitte)**, **HR Consulting (WTW)**, **Finance (Electrolux)**, and **Cloud Consulting (Cloud Kinetics)**  
+- 📊 Strong foundation in **Data Analytics, Data Mining, Business Intelligence, and Visualisation**  
+- 💡 Interested in projects involving **business strategy, data science, and technology-driven solutions**  
+
+---
+
+## 🛠️ Technical Skills  
+**Languages & Tools:**  
+- Python | R | SQL | Excel (Advanced) | Power BI | Access | Tableau  
+- SAP | Sage X3 | SPSS | KNIME
+
+**Expertise Areas:**  
+- Data Analytics & Visualisation  
+- HR Analytics & Compensation and Benefits 
+- Consulting & Benchmarking Analysis   
+
+---
+
+⭐️ *“Data drives insights, and insights drive better decisions.”*  
