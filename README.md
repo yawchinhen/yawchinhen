@@ -9,7 +9,7 @@ I am passionate about turning data into actionable insights and bridging the gap
 
 ## 🛠️ Technical Skills  
 **Softwares & Tools:**  
-- Python | R | SQL | Excel (Advanced) | Power BI | Access | Tableau | SAP | Sage X3 | SPSS | KNIME
+- Python | R | SQL | Html | CSS | Javascript | Excel (Advanced) | Power BI | Access | Tableau | SAP | Sage X3 | SPSS | KNIME
 
 **Expertise Areas:**  
 - Data Analytics & Visualisation  
